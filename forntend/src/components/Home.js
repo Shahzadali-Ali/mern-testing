@@ -30,7 +30,7 @@ export const Home = (props) => {
         <section className="py-md-5 jumbotron text-center">
 <div class="">
   <h1>Hello  {user && user.name}</h1>
-  <h4 className="text-center">Welcome To MongoDB with React and Node</h4>
+  <h4 className="text-center">Welcome To Mern Project</h4>
  <br/>
   <center><button onClick={logout} className="btn btn-danger">Logout</button></center>
 </div>
